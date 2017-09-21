@@ -15,6 +15,11 @@ img{
   top: -50px;
   border-radius: 10px;
 }
+.topic_content{
+  height: 42px;
+  width: 100%;
+  overflow: hidden;
+}
 button{
   border-radius: 15px;
   width: 120px;
